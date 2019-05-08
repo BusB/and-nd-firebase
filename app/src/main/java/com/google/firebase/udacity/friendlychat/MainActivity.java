@@ -318,6 +318,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+
     protected void fetchConfig() {
         long cacheExpiration = 3600;
 
